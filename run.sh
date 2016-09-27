@@ -1,0 +1,1 @@
+docker run -d -p 8383:9000 --name springboot mrocznybanan/springboot
