@@ -12,3 +12,4 @@ mvn spring-boot:run
 - Data access layer created with mybatis
 - Data exposed via REST
 - Tested with SpringBootTest
+- Integrated with Docker
